@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azra</h1>
-<h3 align="center">Software Enginner (Full Stack Developer) / Austin , TX</h3>
+<h3 align="center">Software Engineer (Full Stack Developer) / Austin , TX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azrabelli&label=Profile%20views&color=0e75b6&style=flat" alt="azrabelli" /> </p>
 
