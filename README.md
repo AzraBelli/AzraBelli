@@ -14,7 +14,8 @@
 <a href="https://linkedin.com/in/azrabelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azrabelli" height="30" width="40" /></a>
 </p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=AzraBelli&layout=compact&theme=radical
+[https://github-readme-stats.vercel.app/api/top-langs/?username=AzraBelli&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=AzraBelli&layout=donut
+)
 
 
 <h3 align="left">Languages and Tools:</h3>
