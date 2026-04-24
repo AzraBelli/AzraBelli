@@ -55,7 +55,7 @@ Building scalable web applications, APIs, cloud solutions and enterprise systems
 
 <div align="center">
 
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=flat&logo=cshrp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white&logoColor=white)
 
