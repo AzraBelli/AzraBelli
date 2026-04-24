@@ -98,7 +98,9 @@ Building scalable web applications, APIs, cloud solutions and enterprise systems
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AzraBelli&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzraBelli&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzraBelli&theme=tokyonight" />
+</p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzraBelli&theme=tokyonight&hide_border=true"/>
 </p>
