@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azra Belli</h1>
 
-<h3 align="center">Software Engineer | Full Stack Developer | Austin, Texas 🇺🇸</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Austin, Texas U.S</h3>
 
 <p align="center">
 Building scalable web applications, APIs, cloud solutions and enterprise systems.
