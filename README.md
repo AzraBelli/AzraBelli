@@ -7,7 +7,7 @@ Building scalable web applications, APIs, cloud solutions and enterprise systems
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=5%2B+Years+of+Software+Engineering+Experience;Full+Stack+Developer+%7C+.NET+%7C+C%23+%7C+SQL;Backend+Engineering+%7C+REST+APIs+%7C+Microservices;Open+to+Work+in+Austin+or+Remote+USA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=4%2B+Years+of+Software+Engineering+Experience;Full+Stack+Developer+%7C+.NET+%7C+C%23+%7C+SQL;Backend+Engineering+%7C+REST+APIs+%7C+Microservices;Open+to+Work+in+Austin+or+Remote+USA" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Building scalable web applications, APIs, cloud solutions and enterprise systems
 
 ## 👩‍💻 About Me
 
-- 💼 5+ years of professional software engineering experience  
+- 💼 4+ years of professional software engineering experience  
 - 🚀 Full Stack Developer focused on scalable backend systems  
 - 🌎 Based in Austin, Texas  
 - 🌱 Currently learning **Cloud Engineering, Kubernetes, AI Integration**  
